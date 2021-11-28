@@ -1,4 +1,4 @@
-<h2 algin="center"> Hi, Everyone🐾. <a src="https://www.facebook.com/TaHieu2709/">Tạ Hiếu nè<a/> 💕💕💕 </h2>
+<h2 align="center"> Hi, Everyone🐾. <a src="https://www.facebook.com/TaHieu2709/">Tạ Hiếu nè<a/> 💕💕💕 </h2>
 
   
 
