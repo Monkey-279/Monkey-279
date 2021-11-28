@@ -4,6 +4,6 @@
 
 | Table1: Test vui thôi | Table2: Test thử tí nhé :> |
 | :--- | :--- |
-| Hi | Hi2 |
-| Ý kiến j ko? | Em test vui thôi:> |
-| Thôi k ý kiến j thì thôi nha | Bye Bye 😶 |
+| 1. Hi | 2. Hi2 |
+| 3. Ý kiến j ko? | 4. Em test vui thôi:> |
+| 5. Thôi k ý kiến j thì thôi nha | 6. Bye Bye 😶 |
