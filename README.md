@@ -13,3 +13,12 @@
   
 [facebook]: https://www.facebook.com/TaHieu2709/
 [instagram]: https://www.instagram.com/tvh279/
+
+<br/>
+## implement libs android
+# //libs: Navigation Component
+def nav_version = "2.5.1"
+implementation "androidx.navigation:navigation-fragment-ktx:$nav_version"
+implementation "androidx.navigation:navigation-ui-ktx:$nav_version"
+
+
