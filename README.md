@@ -15,10 +15,12 @@
 [instagram]: https://www.instagram.com/tvh279/
 
 <br/>
-## implement libs android
-# //libs: Navigation Component
-def nav_version = "2.5.1"
-implementation "androidx.navigation:navigation-fragment-ktx:$nav_version"
-implementation "androidx.navigation:navigation-ui-ktx:$nav_version"
+<h1> implement libs android </h1>
+<h2> //libs: Navigation Component </h2>
+def nav_version = "2.5.1" <br/>
+implementation "androidx.navigation:navigation-fragment-ktx:$nav_version" <br/>
+implementation "androidx.navigation:navigation-ui-ktx:$nav_version" <br/>
+
+
 
 
