@@ -30,8 +30,8 @@ def nav_version = "2.5.1" <br/>
 implementation "androidx.navigation:navigation-fragment-ktx:$nav_version" <br/>
 implementation "androidx.navigation:navigation-ui-ktx:$nav_version"
 
-<h2> //Room Database <h2/>
-[link](https://developer.android.com/training/data-storage/room)
+<h2 src="https://developer.android.com/training/data-storage/room"> //Room Database <h2/>
+[link]()
 
 <h2> //Lifecycle <h2/>
 [link](https://developer.android.com/jetpack/androidx/releases/lifecycle#declaring_dependencies)
