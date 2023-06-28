@@ -9,7 +9,7 @@
 <br/> <br/>
 
 [facebook]: https://www.facebook.com/TaHieu2709/
-[instagram]: https://www.instagram.com/tvh279/
+[instagram]: https://www.instagram.com/hi_uta_27/
 
 <div style="display: flex; flex-direction: row;">
   <img src="https://github-readme-stats.vercel.app/api?username=hi-uta27&show_icons=true&theme=radical" />
