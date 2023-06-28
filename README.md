@@ -8,9 +8,6 @@
   
 <br/> <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hi-uta27&layout=compact&theme=radical)](https://github.com/hi-uta27)
-
-  
 [facebook]: https://www.facebook.com/TaHieu2709/
 [instagram]: https://www.instagram.com/tvh279/
 
