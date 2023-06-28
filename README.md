@@ -8,8 +8,13 @@
   
 <br/> <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaHieu279&layout=compact&theme=radical)](https://github.com/TaHieu279)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hi-uta27&layout=compact&theme=radical)](https://github.com/hi-uta27)
 
   
 [facebook]: https://www.facebook.com/TaHieu2709/
 [instagram]: https://www.instagram.com/tvh279/
+
+<div style="display: flex; flex-direction: row;">
+  <img src="https://github-readme-stats.vercel.app/api?username=hi-uta27&show_icons=true&theme=radical" />
+  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hi-uta27&layout=compact&theme=radical&langs_count=8" />
+</div>
