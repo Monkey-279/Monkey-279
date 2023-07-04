@@ -13,5 +13,5 @@
 
 <div style="display: flex; flex-direction: row;">
   <img src="https://github-readme-stats.vercel.app/api?username=hi-uta27&show_icons=true&theme=radical" />
-  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hi-uta27&layout=compact&theme=radical&langs_count=8" />
+  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hi-uta27&layout=compact&theme=radical&langs_count=12" />
 </div>
